@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/92959215/138393151-2107ef7d-4b42-4e1e-884e-9561ec7ed7e2.png)
+![image](https://user-images.githubusercontent.com/92959215/138526361-4e6b2b35-70ed-477a-9e70-2a8da26a7656.png)
 
-By: alblas2860
+I originally made this writeup in my Microsoft OneNone. This was my first attempt at any type of writeup. I hope this gives people a better understanding of the Bandit overthewire challenges.
 
 
 Level 0
